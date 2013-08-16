@@ -1,0 +1,15 @@
+Package: gavmisc
+Type: Package
+Title: Gavin's miscellaneous functions
+Version: 0.0-1
+Date: 15 August 2013
+Author: Gavin L. Simpson
+Maintainer: Gavin L. Simpson <gavin.simpson@uregina.ca>
+Description: Miscellaneous functions used more or less routinely that don't
+    warrant their own package.
+License: MIT
+ByteCompile: true
+Collate:
+    'ggHueColours.R'
+    'simJamil.R'
+    'simulateSpp.R'
